@@ -10,39 +10,39 @@ const Experence = () => {
       <div className="w-1/2">
         <div className="flex gap-6 flex-wrap">
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/html-5.png" className="w-[50%] h-[50%] object-cover" />
+            <img src="/icons/html-5.png" className="w-[50%] h-[50%] object-cover" />
           </div>
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/js.png" className="w-[50%] h-[50%] object-contain" />
+            <img src="/icons/js.png" className="w-[50%] h-[50%] object-contain" />
           </div>
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/css-3.png" className="w-[50%] h-[50%] object-contain" />
+            <img src="/icons/css-3.png" className="w-[50%] h-[50%] object-contain" />
           </div>
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/typescript.png" className="w-[50%] h-[50%] object-contain" />
-          </div>
-
-          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/nextjs-icon.png" className="w-[50%] h-[50%] object-cover" />
-          </div>
-          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/programing.png" className="w-[50%] h-[50%] object-contain" />
-          </div>
-          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/Taiwinds.png" className="w-[50%] h-[50%] object-contain" />
-          </div>
-          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/Bootstrap.png" className="w-[70%] h-[70%] object-contain" />
+            <img src="/icons/typescript.png" className="w-[50%] h-[50%] object-contain" />
           </div>
 
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/mysql.png" className="w-[70%] h-[70%] object-cover" />
+            <img src="/icons/nextjs-icon.png" className="w-[50%] h-[50%] object-cover" />
           </div>
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/Postgres.png" className="w-[60%] h-[60%] object-contain" />
+            <img src="/icons/programing.png" className="w-[50%] h-[50%] object-contain" />
           </div>
           <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
-            <img src="src/icons/nodejs.png" className="w-[70%] h-[70%] object-contain" />
+            <img src="/icons/Taiwinds.png" className="w-[50%] h-[50%] object-contain" />
+          </div>
+          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
+            <img src="/icons/Bootstrap.png" className="w-[70%] h-[70%] object-contain" />
+          </div>
+
+          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
+            <img src="/icons/mysql.png" className="w-[70%] h-[70%] object-cover" />
+          </div>
+          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
+            <img src="/icons/Postgres.png" className="w-[60%] h-[60%] object-contain" />
+          </div>
+          <div className="w-40 h-40 rounded-full bg-white shadow-md flex items-center justify-center transition ease-in-out hover:-translate-y-1 hover:scale-110">
+            <img src="/icons/nodejs.png" className="w-[70%] h-[70%] object-contain" />
           </div>
         </div>
       </div>
@@ -52,7 +52,7 @@ const Experence = () => {
     <li className="aboutItem flex items-start gap-4">
       <div className="w-20 h-20 rounded-full bg-white shadow-md flex items-center justify-center shrink-0 transition ease-in-out hover:-translate-y-1 hover:scale-110">
         <img
-          src="src/icons/SoftSquare.png"
+          src="/icons/SoftSquare.png"
           alt="Soft Square"
           className="w-[80%] h-[80%] object-contain"
         />
@@ -78,7 +78,7 @@ const Experence = () => {
     {/* <li className="aboutItem flex items-start gap-4">
       <div className="w-20 h-20 rounded-full bg-white shadow-md flex items-center justify-center shrink-0 transition ease-in-out hover:-translate-y-1 hover:scale-110">
         <img
-          src="src/icons/computer.png"
+          src="/icons/computer.png"
           alt="Soft Square"
           className="w-[60%] h-[60%] object-contain"
         />
@@ -94,7 +94,7 @@ const Experence = () => {
     <li className="aboutItem flex items-start gap-4">
       <div className="w-20 h-20 rounded-full bg-white shadow-md flex items-center justify-center shrink-0 transition ease-in-out hover:-translate-y-1 hover:scale-110">
         <img
-          src="src/icons/game-development.png"
+          src="/icons/game-development.png"
           alt="Soft Square"
           className="w-[60%] h-[60%] object-contain"
         />

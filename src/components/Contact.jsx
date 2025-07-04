@@ -13,7 +13,7 @@ const Contact = () => {
       <ul className="flex flex-col items-center md:items-start list-none gap-[26px]">
         <li className="flex items-center gap-[25px]">
           <img
-            src="src/icons/gmail.png"
+            src="/icons/gmail.png"
             alt="Email icon"
             className="w-8 h-8"
           />
@@ -27,7 +27,7 @@ const Contact = () => {
 
         <li className="flex items-center gap-[25px]">
           <img
-            src="src/icons/phone-call.png"
+            src="/icons/phone-call.png"
             alt="Phone icon"
             className="w-8 h-8"
           />
@@ -38,7 +38,7 @@ const Contact = () => {
 
         <li className="flex items-center gap-[25px]">
           <img
-            src="src/icons/communication.png"
+            src="/icons/communication.png"
             alt="Profile icon"
             className="w-8 h-8"
           />

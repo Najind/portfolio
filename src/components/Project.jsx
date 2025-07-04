@@ -13,7 +13,7 @@ const Project = () => {
             <div className="w-full h-[200px]">
               <img
                 className="w-full h-full object-cover"
-                src="src/img/Car.png"
+                src="/img/Car.png"
                 alt="Sunset in the mountains"
               />
             </div>
@@ -44,7 +44,7 @@ const Project = () => {
             <div className="w-full h-[230px]">
               <img
                 className="w-full h-full object-cover"
-                src="src/img/game1.jpg"
+                src="/img/game1.jpg"
                 alt="Sunset in the mountains"
               />
             </div>
@@ -73,7 +73,7 @@ const Project = () => {
             <div className="w-full h-[250px]">
               <img
                 className="w-full h-full object-cover"
-                src="src/img/unpung.png"
+                src="/img/unpung.png"
                 alt="Sunset in the mountains"
               />
             </div>

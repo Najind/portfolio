@@ -29,7 +29,7 @@ const Hero = () => {
 
           <div className="mt-5 flex items-center justify-center">
             <img
-              src="src/img/received_4490008484429687.jpeg"
+              src="/img/received_4490008484429687.jpeg"
               className={`w-120 h-70 object-cover rounded-lg transition-all duration-1000 ease-out hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 mt-3 ${
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
               }`}
@@ -44,7 +44,7 @@ const Hero = () => {
           }`}
         >
           <img
-            src="src/img/InternShip.JPG"
+            src="/img/InternShip.JPG"
             className="w-100 h-150 object-cover rounded-lg hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-1000"
             alt="Hero Right Image"
           />
