@@ -2,12 +2,12 @@ import React from "react";
 
 const Project = () => {
   return (
-    <section id="project" className="relative w-full min-h-screen flex items-center justify-center">
-      <div className="about-head px-8 py-6">
-        <div className="sectionHeadText mb-8">Project</div>
+    <section id="project" className="relative w-full min-h-screen flex items-center justify-center px-4 py-12">
+      <div className="w-full max-w-screen-xl">
+        <div className="sectionHeadText mb-8 text-center md:text-left">Project</div>
 
         {/* การ์ด */}
-        <div className="flex flex-col md:flex-row justify-center items-center gap-8 ">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center">
           {/* การ์ดที่ 1 */}
           <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white transition ease-in-out hover:-translate-y-1 hover:scale-110">
             <div className="w-full h-[200px]">
